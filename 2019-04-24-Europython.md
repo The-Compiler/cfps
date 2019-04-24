@@ -23,7 +23,9 @@
 
 ## Abstract
 
-The py.test tool presents a rapid and simple way to write tests for your Python code. This training gives a quick introduction with exercises into some distinguishing features. We’ll do exercises where we get existing non-pytest test suites to run with pytest and discuss migration strategies. We’ll finish with discussing topics and questions of participants related to their own test suites and usages.
+*(WIP, mostly copy-pasted from 2016)*
+
+The pytest tool presents a rapid and simple way to write tests for your Python code. This training gives a quick introduction with exercises into some distinguishing features. We’ll do exercises where we get existing non-pytest test suites to run with pytest and discuss migration strategies. We’ll finish with discussing topics and questions of participants related to their own test suites and usages.
 
 **If you want to participate, please install pytest (e.g. in a virtualenv) before the training and download the [code examples](FIXME).**
 

@@ -19,6 +19,7 @@
 ## Talk information
 
 - Title: "**pytest - simple, rapid and fun testing with Python**"
+- Length: 3h (FIXME)
 
 ## Abstract
 

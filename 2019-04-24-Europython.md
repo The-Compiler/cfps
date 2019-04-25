@@ -2,14 +2,16 @@
 
 ## About
 
-- Date: 8. - 14. July 2019
+- Date: 8. - 14. July 2019 (Mon/Tue trainings, Wed-Fri conference)
 - Location: Basel
 - "Room capacity for the trainings rooms is approx. 100 seats."
+- "In case you have already purchased a ticket for the conference before knowing whether you have been accepted as a speaker or for a training, and thus cannot use the discount coupon, we will be refunding the corresponding amount after the conference **upon request**."
 
 ## Timeline
 
 - CfP open: 25. April 2019
 - CfP closing: 12. May 2019
+- "Refund coupons which are not used and speaker refunds for already bought tickets which are not requested until one week after the conference (July 21), will be put to good use and automatically go into the financial aid budget for next year's conference."
 
 ## Links
 

@@ -7,23 +7,31 @@
 
 ## Timeline
 
-- CfP not open yet
+- CfP open: 25. April 2019
+- CfP closing: FIXME
 
 ## Links
 
 - [Website](https://ep2019.europython.eu/)
 - [FAQ](https://ep2019.europython.eu/faq)
-- [2018 CfP Infos](https://ep2018.europython.eu/en/call-for-proposals/)
+- [CfP Infos](https://ep2019.europython.eu/events/call-for-proposals/)
+- [CfP Submission](https://ep2019.europython.eu/cfp/submit-proposal/)
 - [2016 training submission](https://ep2016.europython.eu/conference/talks/pytest-simple-rapid-and-fun-testing-with-python-1)
 
 ## Talk information
 
-- Title: "**pytest - simple, rapid and fun testing with Python**"
-- Length: 3h (FIXME)
+- Title: "**pytest - simple, rapid and fun testing with Python**" *(max 80 chars)*
+- Subtitle: FIXME *(max 100 chars)*
+- Length: 3h
+- Python skill level: FIXME *(Beginner/Intermediate/Advanced)*
+- Domain Expertise: FIXME *(The domain expertise your audience should have to follow along (e.g. how much should one know about DevOps or Data Science already) - Beginner/Intermediate/Advanced)*
+- Tags: Test Libraries, TDD, Best Practice, Testing, FIXME *(max. 5)*
 
-## Abstract
+## Abstract (longer version)
 
 *(WIP, mostly copy-pasted from 2016)*
+
+*Suggested size: 1500 chars. Description of the session proposal you are submitting. Be sure to include the goals and any prerequisite required to fully understand it. See the section Submitting Your Talk, Trainings, Helpdesk or Poster of the CFP for further details.*
 
 The pytest tool presents a rapid and simple way to write tests for your Python code. This training gives a quick introduction with exercises into some distinguishing features. We’ll do exercises where we get existing non-pytest test suites to run with pytest and discuss migration strategies. We’ll finish with discussing topics and questions of participants related to their own test suites and usages.
 
@@ -36,3 +44,21 @@ This is the planned outline:
 - (30 minutes): running nose/unittest/trial/Django suites with pytest. Discussing advantages and limitations. Exercise with a select existing real-life open source project.
 - (30 minutes): Strategies for a) migrating to pytest b) using “autouse” fixtures in conjunction with XUnit-based setup/tearodwn methods. Exercise.
 - (30 minutes): open space for questions and interactively solving pytest/unittest integration problems on real-life problems as time permits.
+
+## Abstract (short version)
+
+*Suggested size: < 500 chars*
+
+FIXME
+
+## Prerequisites
+
+*What should attendees be familiar with already, important for intermediate and advanced talks. E.g. data visualization basics, data analysis*
+
+FIXME
+
+## Additional information for talk reviewers
+
+*Please add anything you may find useful for the review of your session proposal, e.g. references of where you have held talks, blogs, YouTube channels, books you have written, etc. This information will only be shown for talk review purposes.*
+
+FIXME

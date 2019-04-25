@@ -4,17 +4,19 @@
 
 - Date: 8. - 14. July 2019
 - Location: Basel
+- "Room capacity for the trainings rooms is approx. 100 seats."
 
 ## Timeline
 
 - CfP open: 25. April 2019
-- CfP closing: FIXME
+- CfP closing: 12. May 2019
 
 ## Links
 
 - [Website](https://ep2019.europython.eu/)
 - [FAQ](https://ep2019.europython.eu/faq)
 - [CfP Infos](https://ep2019.europython.eu/events/call-for-proposals/)
+- [CfP blogpost](https://www.europython-society.org/post/184430536360/europython-2019-call-for-proposals)
 - [CfP Submission](https://ep2019.europython.eu/cfp/submit-proposal/)
 - [2016 training submission](https://ep2016.europython.eu/conference/talks/pytest-simple-rapid-and-fun-testing-with-python-1)
 

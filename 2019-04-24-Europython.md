@@ -20,7 +20,8 @@
 - [CfP Submission](https://ep2019.europython.eu/cfp/submit-proposal/)
 - [2016 training submission](https://ep2016.europython.eu/conference/talks/pytest-simple-rapid-and-fun-testing-with-python-1)
 
-## Talk information
+## Training
+### Information
 
 - Title: "**pytest - simple, rapid and fun testing with Python**" *(max 80 chars)*
 - Subtitle: FIXME *(max 100 chars)*
@@ -29,7 +30,7 @@
 - Domain Expertise: FIXME *(The domain expertise your audience should have to follow along (e.g. how much should one know about DevOps or Data Science already) - Beginner/Intermediate/Advanced)*
 - Tags: Test Libraries, TDD, Best Practice, Testing, FIXME *(max. 5)*
 
-## Abstract (longer version)
+### Abstract (longer version)
 
 *(WIP, mostly copy-pasted from 2016)*
 
@@ -47,19 +48,69 @@ This is the planned outline:
 - (30 minutes): Strategies for a) migrating to pytest b) using “autouse” fixtures in conjunction with XUnit-based setup/tearodwn methods. Exercise.
 - (30 minutes): open space for questions and interactively solving pytest/unittest integration problems on real-life problems as time permits.
 
-## Abstract (short version)
+### Abstract (short version)
 
 *Suggested size: < 500 chars*
 
 FIXME
 
-## Prerequisites
+### Prerequisites
 
 *What should attendees be familiar with already, important for intermediate and advanced talks. E.g. data visualization basics, data analysis*
 
 FIXME
 
-## Additional information for talk reviewers
+### Additional information for talk reviewers
+
+*Please add anything you may find useful for the review of your session proposal, e.g. references of where you have held talks, blogs, YouTube channels, books you have written, etc. This information will only be shown for talk review purposes.*
+
+FIXME
+
+## Talk
+### Information
+
+- Title: "**Testing PySide/PyQt code easily using the pytest framework**" *(max 80 chars)*
+- Subtitle: FIXME *(max 100 chars)*
+- Length: 30 minutes (25 minutes + 5 minutes Q/A)
+- Python skill level: FIXME *(Beginner/Intermediate/Advanced)*
+- Domain Expertise: FIXME *(The domain expertise your audience should have to follow along (e.g. how much should one know about DevOps or Data Science already) - Beginner/Intermediate/Advanced)*
+- Tags: Test Libraries, TDD, Best Practice, Testing, PyQt, FIXME *(max. 5)*
+
+### Abstract (longer version)
+
+*(WIP, mostly copy-pasted from QtWS)*
+
+*Suggested size: 1500 chars. Description of the session proposal you are submitting. Be sure to include the goals and any prerequisite required to fully understand it. See the section Submitting Your Talk, Trainings, Helpdesk or Poster of the CFP for further details.*
+
+Both PySide and PyQt allow rapid prototyping and development of Qt applications
+using the Python programming language. However, the Qt Test framework is focused
+on C++, and only a subset of its functionality is available in Python.
+Together with the "unittest" module in the Python standard library (which exposes
+a heavyweight, xUnit-like API), this can make tests unnecessarily cumbersome to
+write.
+
+The pytest framework coupled with the pytest-qt plugin allows writing tests for
+Qt/Python code in a much more straightforward and fun way. It exposes the
+QTestLib API, but also adds various high-level functionality with an API which
+is more suitable for Python code.
+
+This talk will give the audience a short introduction to pytest and explain how
+to test Python/Qt code using the pytest-qt plugin. It will also take a quick
+look at other useful pytest plugins which can be combined with pytest-qt.
+
+### Abstract (short version)
+
+*Suggested size: < 500 chars*
+
+FIXME
+
+### Prerequisites
+
+*What should attendees be familiar with already, important for intermediate and advanced talks. E.g. data visualization basics, data analysis*
+
+FIXME
+
+### Additional information for talk reviewers
 
 *Please add anything you may find useful for the review of your session proposal, e.g. references of where you have held talks, blogs, YouTube channels, books you have written, etc. This information will only be shown for talk review purposes.*
 

@@ -6,6 +6,7 @@
 - Location: Basel
 - "Room capacity for the trainings rooms is approx. 100 seats."
 - "In case you have already purchased a ticket for the conference before knowing whether you have been accepted as a speaker or for a training, and thus cannot use the discount coupon, we will be refunding the corresponding amount after the conference **upon request**."
+- "EuroPython does community based talk voting"
 
 ## Timeline
 
@@ -52,7 +53,9 @@ This is the planned outline:
 
 ### Abstract (short version)
 
-*Suggested size: < 500 chars*
+*Suggested size: < 500 chars. Be sure to include relevant info in both the short
+and long abstract when submitting your proposal as attendees will not see the
+short abstract when voting!*
 
 FIXME
 

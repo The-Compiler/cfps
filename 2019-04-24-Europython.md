@@ -119,29 +119,34 @@ https://www.youtube.com/watch?v=rCBHkQ_LVIs
 ### Information
 
 - Title: "**Testing PySide/PyQt code easily using the pytest framework**" *(max 80 chars)*
-- Subtitle: FIXME *(max 100 chars)*
+- Subtitle: **How to use pytest and pytest-qt, and how it's better than unittest and QtTest** *(max 100 chars)*
 - Length: 30 minutes (25 minutes + 5 minutes Q/A)
-- Python skill level: FIXME *(Beginner/Intermediate/Advanced)*
-- Domain Expertise: FIXME *(The domain expertise your audience should have to follow along (e.g. how much should one know about DevOps or Data Science already) - Beginner/Intermediate/Advanced)*
-- Tags: Test Libraries, TDD, Best Practice, Testing, PyQt, FIXME *(max. 5)*
+- Python skill level: Intermediate *(Beginner/Intermediate/Advanced)*
+- Domain Expertise: Intermediate *(The domain expertise your audience should have to follow along (e.g. how much should one know about DevOps or Data Science already) - Beginner/Intermediate/Advanced)*
+- Tags: Test Libraries, TDD, Best Practice, Testing, PyQt *(max. 5)*
 
 ### Abstract (longer version)
 
-*(WIP, mostly copy-pasted from QtWS)*
-
 *Suggested size: 1500 chars. Description of the session proposal you are submitting. Be sure to include the goals and any prerequisite required to fully understand it. See the section Submitting Your Talk, Trainings, Helpdesk or Poster of the CFP for further details.*
 
-Both PySide and PyQt allow rapid prototyping and development of Qt applications
-using the Python programming language. However, the Qt Test framework is focused
-on C++, and only a subset of its functionality is available in Python.
-Together with the "unittest" module in the Python standard library (which exposes
-a heavyweight, xUnit-like API), this can make tests unnecessarily cumbersome to
-write.
+Both PySide and PyQt allow rapid prototyping and development of Qt GUI applications
+using Python. However, the test framework coming with Qt is focused on C++, and
+only a subset of its functionality is available in Python. Together with the
+"unittest" module in the Python standard library (which exposes a heavyweight,
+xUnit-like API), this can make tests unnecessarily cumbersome to write.
 
 The pytest framework coupled with the pytest-qt plugin allows writing tests for
 Qt/Python code in a much more straightforward and fun way. It exposes the
 QTestLib API, but also adds various high-level functionality with an API which
-is more suitable for Python code.
+is much more pythonic.
+
+Examples of functionality provided by the pytest-qt plugin include:
+
+- Waiting for Qt signals, conditions or callbacks
+- Dealing with Qt logging and warning messages
+- Automated testing of Qt models (QAbstractItemModel)
+- QTestLib API for GUI testing
+- Failing tests on exceptions in Qt virtual methods
 
 This talk will give the audience a short introduction to pytest and explain how
 to test Python/Qt code using the pytest-qt plugin. It will also take a quick
@@ -151,16 +156,30 @@ look at other useful pytest plugins which can be combined with pytest-qt.
 
 *Suggested size: < 500 chars*
 
-FIXME
+PySide and PyQt allow development of Qt GUI applications using Python. However,
+writing tests using Python's unittest and Qt's test API can be unnecessarily
+cumbersome.
+
+The pytest framework coupled with the pytest-qt plugin allows writing tests for
+Qt/Python code in a much more straightforward and fun way. It does so by adding
+various high-level functionality useful for testing Qt code.
+
+This talk will give the audience an introduction to pytest, the pytest-qt
+plugin and other related plugins.
 
 ### Prerequisites
 
 *What should attendees be familiar with already, important for intermediate and advanced talks. E.g. data visualization basics, data analysis*
 
-FIXME
+Basic knowledge of Python and asynchronous GUI programming concepts is required. Related Qt concepts (signals/slots) will be explained quickly in the talk.
 
 ### Additional information for talk reviewers
 
 *Please add anything you may find useful for the review of your session proposal, e.g. references of where you have held talks, blogs, YouTube channels, books you have written, etc. This information will only be shown for talk review purposes.*
 
-FIXME
+I've mainly given workshops so far (see my other submission), as well as smaller
+talks which weren't recorded.
+
+For an example of a talk which was recorded, see my talk about pytest at the
+Swiss Python Summit 2016:
+https://www.youtube.com/watch?v=rCBHkQ_LVIs

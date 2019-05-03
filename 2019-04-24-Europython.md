@@ -27,7 +27,7 @@
 ### Information
 
 - Title: "**Introduction to pytest**" *(max 80 chars)*
-- Subtitle: Simple, rapid and fun testing with Python
+- Subtitle: **Simple, rapid and fun testing with Python**
 - Length: 3h
 - Python skill level: Intermediate
 - Domain Expertise: Beginner
@@ -70,9 +70,9 @@ This is the planned outline:
   * Exercises
 - (30 minutes): Useful third-party plugins:
   * Coverage integration
-  * Property-based testing (automated testcase generation) via Hypothesis.
+  * Property-based testing (automated testcase generation) via Hypothesis
 - (30 minutes): Open space for questions:
-  * Interactively solving pytest integration problems on real-life projects as time permits.
+  * Interactively solving pytest integration problems on real-life projects as time permits
   
 Note that the structure of the workshop is similar to the ones I've given at
 Europython 2015 and 2016 in Bilbao.
@@ -96,8 +96,8 @@ suites and usages.
 advanced talks. E.g. data visualization basics, data analysis*
 
 Basic Python OOP knowledge (e.g. what a class/instance is) is required. Knowing
-what an assertion or a decorator are is a bonus, but will also be explained
-during the workshop.
+what an assertion or a decorator are is a bonus, but those topics will also be
+explained briefly during the workshop.
 
 ### Additional information for talk reviewers
 
@@ -171,7 +171,7 @@ plugin and other related plugins.
 
 *What should attendees be familiar with already, important for intermediate and advanced talks. E.g. data visualization basics, data analysis*
 
-Basic knowledge of Python and asynchronous GUI programming concepts is required. Related Qt concepts (signals/slots) will be explained quickly in the talk.
+Basic knowledge of Python and asynchronous GUI programming concepts is required. Related Qt concepts (signals/slots) will be explained briefly in the talk.
 
 ### Additional information for talk reviewers
 

@@ -42,7 +42,7 @@ FIXME: See EuroPython
 
 ### Reviewer Notes
 
-FIXME
+FIXME See EuroPython
 
 ## Talk
 ### Information
@@ -55,24 +55,8 @@ FIXME
 
 ### Description
 
-*(WIP, mostly copy-pasted from QtWS)*
-
-Both PySide and PyQt allow rapid prototyping and development of Qt applications
-using the Python programming language. However, the Qt Test framework is focused
-on C++, and only a subset of its functionality is available in Python.
-Together with the "unittest" module in the Python standard library (which exposes
-a heavyweight, xUnit-like API), this can make tests unnecessarily cumbersome to
-write.
-
-The pytest framework coupled with the pytest-qt plugin allows writing tests for
-Qt/Python code in a much more straightforward and fun way. It exposes the
-QTestLib API, but also adds various high-level functionality with an API which
-is more suitable for Python code.
-
-This talk will give the audience a short introduction to pytest and explain how
-to test Python/Qt code using the pytest-qt plugin. It will also take a quick
-look at other useful pytest plugins which can be combined with pytest-qt.
+FIXME See EuroPython
 
 ### Reviewer notes
 
-FIXME
+FIXME See EuroPython

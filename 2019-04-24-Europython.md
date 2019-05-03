@@ -120,7 +120,7 @@ https://www.youtube.com/watch?v=rCBHkQ_LVIs
 ## Talk
 ### Information
 
-- Title: "**Testing PySide/PyQt code easily using the pytest framework**" *(max 80 chars)*
+- Title: "**Testing PyQt/PySide code easily using the pytest framework**" *(max 80 chars)*
 - Subtitle: **An introduction to the pytest-qt plugin and its features** *(max 100 chars)*
 - Length: 30 minutes (25 minutes + 5 minutes Q/A)
 - Python skill level: Intermediate *(Beginner/Intermediate/Advanced)*

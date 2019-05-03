@@ -41,11 +41,12 @@ understand it. See the section Submitting Your Talk, Trainings, Helpdesk or
 Poster of the CFP for further details.*
 
 The pytest tool presents a rapid and simple way to write tests for your Python
-code. This training gives a quick introduction with exercises into some
-distinguishing features. We'll do exercises where we get existing non-pytest
-test suites to run with pytest and discuss migration strategies. We'll finish
-with discussing topics and questions of participants related to their own test
-suites and usages.
+code. This training gives an introduction with exercises into some
+distinguishing features. We'll also examine how to run existing non-pytest test
+suites and discuss migration strategies. Various plugins which extend pytest's
+functionality even further will be introduced. We'll finish with discussing
+topics and questions of participants related to their own test suites and
+usages.
 
 This is the planned outline:
 
@@ -84,11 +85,12 @@ and long abstract when submitting your proposal as attendees will not see the
 short abstract when voting!*
 
 The pytest tool presents a rapid and simple way to write tests for your Python
-code. This training gives a quick introduction with exercises into some
-distinguishing features. We'll do exercises where we get existing non-pytest
-test suites to run with pytest and discuss migration strategies. We'll finish
-with discussing topics and questions of participants related to their own test
-suites and usages.
+code. This training gives an introduction with exercises into some
+distinguishing features. We'll also examine how to run existing non-pytest test
+suites and discuss migration strategies. Various plugins which extend pytest's
+functionality even further will be introduced. We'll finish with discussing
+topics and questions of participants related to their own test suites and
+usages.
 
 ### Prerequisites
 

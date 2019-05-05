@@ -4,6 +4,7 @@
 
 - Date: 3. - 5. October 2019
 - Location: Hilton Belgrade, Serbia
+- **submitted**
 
 ## Timeline
 
@@ -28,6 +29,8 @@ both the pytest framework and various plugins. In 2013, he started the
 qutebrowser project, a keyboard-focused web browser based on Python and Qt. In
 2015, he discovered pytest - since then, he has given talks and conducted
 workshops about pytest at various conferences and companies.
+
+Tagline: qutebrowser BDFL, pytest fan
 
 ## Training
 ### Information
@@ -77,6 +80,9 @@ Basic Python OOP knowledge (e.g. what a class/instance is) is required.
 
 ### Reviewer Notes
 
+The above outline is for a 1.5h version, I'd be happy to give a 3h version
+instead if desired.
+
 I've given similar workshops at Europython 2015 and 2016. They were visited by
 many attendees and I've received good feedback. Additionally, I've conducted
 longer (3-day) workshops about pytest/tox/devpi in various companies, see e.g.:
@@ -99,11 +105,12 @@ https://www.youtube.com/watch?v=rCBHkQ_LVIs
 
 ### Description
 
-Both PySide and PyQt allow rapid prototyping and development of Qt GUI applications
-using Python. However, the test framework coming with Qt is focused on C++, and
-only a subset of its functionality is available in Python. Together with the
-"unittest" module in the Python standard library (which exposes a heavyweight,
-xUnit-like API), this can make tests unnecessarily cumbersome to write.
+Both PySide and PyQt allow rapid prototyping and development of Qt GUI
+applications using Python. However, the test framework coming with Qt is focused
+on C++, and only a subset of its functionality is available in Python. Together
+with the "unittest" module in the Python standard library (which exposes a
+heavyweight, xUnit-like API), this can make tests unnecessarily cumbersome to
+write.
 
 The pytest framework coupled with the pytest-qt plugin allows writing tests for
 Qt/Python code in a much simpler way. It exposes the QTestLib API, but also adds
@@ -123,6 +130,8 @@ look at other useful pytest plugins which can be combined with pytest-qt.
 
 Basic knowledge of Python and asynchronous GUI programming concepts is required.
 Related Qt concepts will be explained briefly in the talk.
+
+Duration: 30 minutes, including 5 minutes Q&A
 
 ### Reviewer notes
 

@@ -7,6 +7,7 @@
 - "Room capacity for the trainings rooms is approx. 100 seats."
 - "In case you have already purchased a ticket for the conference before knowing whether you have been accepted as a speaker or for a training, and thus cannot use the discount coupon, we will be refunding the corresponding amount after the conference **upon request**."
 - "EuroPython does community based talk voting"
+- **submitted**
 
 ## Timeline
 
@@ -22,6 +23,14 @@
 - [CfP blogpost](https://www.europython-society.org/post/184430536360/europython-2019-call-for-proposals)
 - [CfP Submission](https://ep2019.europython.eu/cfp/submit-proposal/)
 - [2016 training submission](https://ep2016.europython.eu/conference/talks/pytest-simple-rapid-and-fun-testing-with-python-1)
+
+## Biography
+
+Florian Bruhin ("The Compiler") is a long-time contributor and maintainer of
+both the pytest framework and various plugins. In 2013, he started the
+qutebrowser project, a keyboard-focused web browser based on Python and Qt. In
+2015, he discovered pytest - since then, he has given talks and conducted
+workshops about pytest at various conferences and companies.
 
 ## Training
 ### Information
@@ -77,6 +86,8 @@ This is the planned outline:
   
 Note that the structure of the workshop is similar to the ones I've given at
 Europython 2015 and 2016 in Bilbao.
+
+Basic Python OOP knowledge (e.g. what a class/instance is) is required.
 
 ### Abstract (short version)
 
@@ -154,6 +165,9 @@ Examples of functionality provided by the pytest-qt plugin include:
 This talk will give the audience a short introduction to pytest and explain how
 to test Python/Qt code using the pytest-qt plugin. It will also take a quick
 look at other useful pytest plugins which can be combined with pytest-qt.
+
+Basic knowledge of Python and asynchronous GUI programming concepts is required.
+Related Qt concepts will be explained briefly in the talk.
 
 ### Abstract (short version)
 

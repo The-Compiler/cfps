@@ -98,7 +98,7 @@ usages.
 advanced talks. E.g. data visualization basics, data analysis*
 
 Basic Python OOP knowledge (e.g. what a class/instance is) is required. Knowing
-what an assertion or a decorator are is a bonus, but those topics will also be
+what an "assertion" or a "decorator" are is a bonus, but those topics will also be
 explained briefly during the workshop.
 
 ### Additional information for talk reviewers
@@ -114,14 +114,16 @@ longer (3-day) workshops about pytest/tox/devpi in various companies, see e.g.:
 https://www.python-academy.com/courses/specialtopics/python_course_testing.html
 
 Those workshops weren't recorded, and I haven't given many talks yet - for an
-example, see my talk at the Swiss Python Summit 2016:
+example, see my talk at the Swiss Python Summit 2016 (note that the video is
+rather old and I've done some more speaking/workshops since then, but nothing I
+could find a recording of):
 https://www.youtube.com/watch?v=rCBHkQ_LVIs
 
 ## Talk
 ### Information
 
-- Title: "**Testing PyQt/PySide code easily using the pytest framework**" *(max 80 chars)*
-- Subtitle: **An introduction to the pytest-qt plugin and its features** *(max 100 chars)*
+- Title: "**Testing Qt GUI applications with pytest**"
+- Subtitle: **Introduction and practical tips for the pytest-qt plugin** *(max 100 chars)*
 - Length: 30 minutes (25 minutes + 5 minutes Q/A)
 - Python skill level: Intermediate *(Beginner/Intermediate/Advanced)*
 - Domain Expertise: Intermediate *(The domain expertise your audience should have to follow along (e.g. how much should one know about DevOps or Data Science already) - Beginner/Intermediate/Advanced)*
@@ -181,6 +183,7 @@ Basic knowledge of Python and asynchronous GUI programming concepts is required.
 I've mainly given workshops so far (see my other submission), as well as smaller
 talks which weren't recorded.
 
-For an example of a talk which was recorded, see my talk about pytest at the
-Swiss Python Summit 2016:
+For an example of a talk that was recorded, see my talk about pytest at the
+Swiss Python Summit 2016 (note that the video is rather old and I've done some
+more speaking/workshops since then, but nothing I could find a recording of):
 https://www.youtube.com/watch?v=rCBHkQ_LVIs

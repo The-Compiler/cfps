@@ -47,7 +47,7 @@ FIXME See EuroPython
 ## Talk
 ### Information
 
-- Title: "**Testing PyQt/PySide code easily using the pytest framework**"
+- Title: "**Testing Qt GUI applications with pytest**"
 - Length: 30 minutes (25 minutes + 5 minutes Q/A)
 - Level: Advanced
 - Tags: Tools, Framework

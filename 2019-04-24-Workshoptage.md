@@ -4,7 +4,7 @@
 
 - Date: 10. - 12. September 2019
 - Location: HSR Rapperswil
-- Länge: 9:10 - 17:00 (FIXME)
+- Länge: 9:10 - 17:00 (probably?)
 
 ## Timeline
 

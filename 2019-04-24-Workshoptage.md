@@ -45,20 +45,20 @@ Folgende Programmpunkte sind für den Workshop geplant:
 - Organisieren von Tests: "markers", Parametrisierung von Tests mit Daten, Überspringen von Tests.
 - Modularisieren von Abhängigkeiten mit "fixtures": Setup/Teardown, dependency injection.
 - Vermeiden von Abhängigkeiten mit Patching/Mocking: Warum, wann, wann lieber nicht, und wie.
-- Umgang mit bestehenden Testsuites und Frameworks: unittest, nose, django, etc. Strategien bei der Migration zu pytest.
-- Plugins: Automatische Generierung von Testdaten mit "hypothesis" (property-based testing), test coverage, Nutzung mehrerer CPU-Cores/Maschinen, und vieles mehr.
-- Erweiterung mit eigenen Plugins: verfügbare Hooks, Plugins als Teil einer Testsuite, Paketierung und Verteilung.
+- Umgang mit bestehenden Testsuites und Frameworks: Ausführen von unittest/nose/Django-Testsuites, Strategien bei der Migration zu pytest.
+- Plugins: Automatische Generierung von Testdaten mit "hypothesis" (property-based testing), Testabdeckung (coverage), Nutzung mehrerer CPU-Cores/Maschinen, und vieles mehr.
+- Erweiterung mit eigenen Plugins: Verfügbare Hooks, Plugins als Teil einer Testsuite, Paketierung und Verteilung.
 - Open Space: Platz für Fragen und Probleme bei der Integration von pytest in bestehende Projekte der Teilnehmenden.
 
-Je nach Zeit und Interesse der Teilnehmenden kann auch auf weitere Themen zu pytest oder zu verwandten Projekten (tox/devpi) eingegangen werden.
+Je nach Zeit und Interessen der Teilnehmenden kann auch auf weitere Themen zu pytest oder zu verwandten Projekten (tox/devpi) eingegangen werden.
 
-Der Kurs beinhaltet viele Übungen, womit die Teilnehmenden von Anfang an ihre eigenen Tests mit pytest schreiben können.
+Der Workshop ist als "hands-on"-Kurs konzipiert und beinhaltet viele Übungen, womit die Teilnehmenden von Anfang an ihre eigenen Tests mit pytest schreiben können.
 
 ## Kursziel
 
 *Bitte beschreiben Sie das Kursziel Ihres Workshops.*
 
-Den Teilnehmenden sollen Werkzeuge in die Hand gegeben werden, die sowohl für bestehende als auch für neue Projekte nützlich sind, wenn es um die Implementation von Tests geht.
+Den Teilnehmenden sollen Werkzeuge in die Hand gegeben werden, die sowohl für bestehende als auch für neue Projekte nützlich sind, wenn es um die Implementation von Tests in Python geht.
 
 ## Adressaten
 

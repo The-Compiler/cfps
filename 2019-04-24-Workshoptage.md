@@ -84,4 +84,4 @@ Eigenes Laptop (Betriebssystem egal) mit einer Installation von Python 3 (unter 
 
 *kurze Biografie (2-3 Sätze)*
 
-Florian Bruhin ("The Compiler") hat 2015 das pytest-Framework entdeckt und seit da in diversen Firmen sowie an Konferenzen Vorträge und Workshops zu pytest durchgeführt. Er wurde ist Mitentwickler und -Maintainer von pytest selbst sowie diversen Plugins.
+Florian Bruhin ("The Compiler") hat 2015 das pytest-Framework entdeckt und seit da in diversen Firmen sowie an Konferenzen Vorträge und Workshops zu pytest durchgeführt. Er ist Mitentwickler und -Maintainer von pytest selbst sowie diversen Plugins.

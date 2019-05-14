@@ -30,7 +30,7 @@
 
 *Beschreiben Sie kurz Ihren Workshop.*
 
-Automatisiertes Testen ist ein essenzielles Werkzeug für qualitativen Python-Code. Das pytest-Framework ermöglicht es, Tests sowohl übersichtlicher als auch unkomplizierter umzusetzen, als dies mit Python-Bordmitteln wie dem "unittest"-Modul möglich wäre. Pytest lässt sich nahtlos mit existierenden Testsuites integrieren und bietet auch da zahlreiche Vorteile. Weiterhin lässt es sich problemlos an die eigenen Ansprüche anpassen und mit zahlreichen Plugins erweitern.
+Automatisiertes Testen ist ein essenzielles Werkzeug für qualitativen Python-Code. Das pytest-Framework ermöglicht es, Tests sowohl übersichtlicher als auch unkomplizierter umzusetzen, als dies mit Python-Bordmitteln wie dem "unittest"-Modul möglich wäre. Pytest lässt sich nahtlos mit existierenden Testsuites integrieren und bietet auch da viele Vorteile. Weiterhin lässt es sich problemlos an die eigenen Ansprüche anpassen und mit diversen Plugins erweitern.
 
 Dieser Workshop bietet eine Einführung zu pytest mit zahlreichen Übungen. Teilnehmende lernen anhand von Beispielen die "best practices" für das Testen von Python-Code.
 
@@ -50,7 +50,7 @@ Folgende Programmpunkte sind für den Workshop geplant:
 - Eigene Plugins verfassen: Verfügbare Hooks, Plugins als Teil einer Testsuite, Paketierung und Verteilung.
 - Offene Fragerunde: Platz für Fragen und Probleme bei der Integration von pytest in bestehende Projekte der Teilnehmenden.
 
-Je nach Zeit und Interessen der Teilnehmenden kann auch auf weitere Themen zu pytest oder zu verwandten Projekten (tox/devpi) eingegangen werden.
+Je nach Zeit und Interessen des Publikums kann auch auf weitere Themen zu pytest oder zu verwandten Projekten (tox/devpi) eingegangen werden.
 
 Der Workshop ist als "Hands-on"-Kurs konzipiert und enthält viele Übungen, womit die Teilnehmenden von Anfang an ihre eigenen Tests mit pytest schreiben können.
 
@@ -64,7 +64,7 @@ Die Teilnehmenden haben mit dem Workshop erste Praxiserfahrung gesammelt und Bas
 
 *An welche Zielgruppe richtet sich der Workshop?*
 
-Der Workshop richtet sich an Python-Programmiererinnen und -Programmierer, welche gerne mehr über Testing lernen wollen. Personen, welche noch nie einen Test geschrieben haben sind gleichermassen willkommen wie solche, die bereits Test-Frameworks nutzen und mehr Wissen zu pytest sammeln wollen.
+Der Workshop richtet sich an Python-Programmierer*innen, welche gerne mehr über Testing lernen wollen. Personen, welche noch nie einen Test geschrieben haben sind gleichermassen willkommen wie solche, die bereits Test-Frameworks nutzen und mehr Wissen zu pytest sammeln wollen.
 
 ## Voraussetzungen
 

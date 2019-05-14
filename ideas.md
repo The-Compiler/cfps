@@ -11,6 +11,8 @@
 - Python introduction
 - Python advanced
 - State-of-the-art Python: Mypy, Linters, Libraries, etc.
+- Git
+- LaTeX
 
 # Inspirations
 

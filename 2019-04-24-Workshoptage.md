@@ -78,10 +78,10 @@ Der Kurs wird auf Deutsch durchgeführt, die dazugehörigen Slides sind jedoch i
 
 *Bitte beschreiben Sie die nötige Infrastruktur für die Teilnehmenden.*
 
-Eigenes Laptop (Betriebssystem egal) mit einer Installation von Python 3 (unter https://www.python.org verfügbar). 
+Eigener Laptop (Betriebssystem egal) mit einer Installation von Python 3 (unter https://www.python.org verfügbar). 
 
 ## Biografie
 
 *kurze Biografie (2-3 Sätze)*
 
-Florian Bruhin ("The Compiler") hat 2015 das pytest-Framework entdeckt und seit da in diversen Firmen sowie an Konferenzen Vorträge und Workshops zu pytest durchgeführt. Er ist Mitentwickler und -maintainer von pytest selbst sowie diversen Plugins.
+Florian Bruhin ("The Compiler") hat 2015 das pytest-Framework entdeckt und seither in diversen Firmen sowie an Konferenzen Vorträge und Workshops zu pytest durchgeführt. Er ist Mitentwickler und -maintainer von pytest selbst sowie diversen Plugins.

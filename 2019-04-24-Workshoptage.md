@@ -78,7 +78,7 @@ Der Kurs wird auf Deutsch durchgeführt, die dazugehörigen Slides sind jedoch i
 
 *Bitte beschreiben Sie die nötige Infrastruktur für die Teilnehmenden.*
 
-Eigener Laptop (Betriebssystem egal) mit einer Installation von Python 3 (unter https://www.python.org verfügbar). 
+Eigener Laptop (Betriebssystem egal) mit einer Installation von [Python 3](https://www.python.org).
 
 ## Biografie
 

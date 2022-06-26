@@ -1,0 +1,28 @@
+\documentclass{scrartcl}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{cmbright}
+\usepackage{parskip}
+\usepackage{csquotes}
+
+\begin{document}
+\thispagestyle{empty}
+\section*{Professionelles Testen für Python mit pytest}
+
+Folgende Programmpunkte sind für den Workshop geplant:
+
+\begin{itemize}
+\item Einleitung und Terminologie: Warum automatisierte Tests, Arten von Tests, Aufgaben eines Test-Frameworks.
+\item Tests schreiben mit pytest: Installation, wichtige Features, Konfiguration, Assertions.
+\item Tests organisieren: \enquote{markers}, Tests parametrisieren mit Daten, Tests überspringen.
+\item Abhängigkeiten modularisieren mit \enquote{fixtures}: Setup/Teardown, Dependency Injection.
+\item Abhängigkeiten vermeiden mit Patching/Mocking: Warum, wann, wann lieber nicht, und wie.
+\item Mit bestehenden Testsuites und Frameworks umgehen: Existierende unittest/nose/Django-Testsuites ausführen, Strategien bei der Migration zu pytest.
+\item Plugins: Automatisch Testdaten generieren mit \enquote{hypothesis} (property-based testing), Testabdeckung (coverage), Nutzung mehrerer CPU-Cores/Maschinen und vieles mehr.
+\item Eigene Plugins verfassen: Verfügbare Hooks, Plugins als Teil einer Testsuite, Paketierung und Verteilung.
+\item Offene Fragerunde: Platz für Fragen und Probleme bei der Integration von pytest in bestehende Projekte der Teilnehmenden.
+\item Je nach Zeit und Interessen des Publikums kann auch auf weitere Themen zu pytest oder zu verwandten Projekten (tox/devpi) eingegangen werden.
+\end{itemize}
+
+Der Workshop ist als \enquote{Hands-on}-Kurs konzipiert und enthält viele Übungen, womit die Teilnehmenden von Anfang an ihre eigenen Tests mit pytest schreiben können.
+\end{document}

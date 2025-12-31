@@ -1,0 +1,1 @@
+Freya Bruhin ("The Compiler") is a long-time contributor and maintainer of both the pytest framework and various plugins. Discovering pytest in 2015, Freya has since given talks and conducted workshops about pytest at various conferences and companies. Freya's main project, qutebrowser (a keyboard-focused web browser), has grown from a hobby to a donation-funded part-time job.

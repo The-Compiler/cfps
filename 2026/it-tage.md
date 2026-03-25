@@ -5,7 +5,7 @@ E-Mail-Adresse: [redacted]
 Firma: Bruhin Software
 Kurzbiografie: Freya Bruhin („The Compiler“) ist eine langjährige Mitwirkende und Maintainerin des pytest-Frameworks sowie verschiedener Plugins. Seit ihrer Entdeckung von pytest im Jahr 2015 hat Freya Vorträge und Workshops zu pytest auf diversen Konferenzen und in verschiedenen Unternehmen gehalten. Ihr Hauptprojekt, qutebrowser (ein tastaturbasierter Webbrowser), hat sich von einem Hobby zu einem spendenfinanzierten Teilzeitjob entwickelt.
 
-# VORTRAG
+# pytest
 Vortragstitel: pytest: Professionelles Testen (nicht nur) für Python
 Themengebiet/e: Software-Entwicklung, Python, Test & Quality
 Schwierigkeit: Anfänger, Fortgeschritten
@@ -25,5 +25,26 @@ Der Workshop richtet sich an Python-Programmierer\*innen und Tester\*innen, welc
 
 Grundkenntnisse zu Python und zu objektorientiertem Programmieren (beispielsweise was eine Klasse oder Instanz ist) werden vorausgesetzt. Vorkenntnisse zum Software-Testing werden keine benötigt. Das Kursmaterial ist in Englisch verfasst.
 
-# Kommentar
+## Kommentar
 Alternativ ist auch ein Vortrag auf Englisch möglich, die Slides sind in Englisch verfasst.
+
+# Hypothesis
+
+Vortragstitel: "Property-based testing" in Python mit Hypothesis
+Themengebiet/e: Software-Entwicklung, Python, Test & Quality
+Schwierigkeit: Fortgeschritten, Expertenniveau
+Vortragstyp: Vortrag (45 min.)
+Sprache: deutsch
+Zielgruppe/n: Entwickler:innen
+
+## Abstract
+
+Die Website des Hypothesis-Projekts (https://hypothesis.works) warb einst mit dem Satz: „Normales automatisiertes Software-Testing ist überraschend manuell. Jedes Szenario, das der Computer durchläuft, musste manuell programmiert werden. Hypothesis kann das ändern.“
+
+Ob sogenanntes "property-based testing" die manuelle Parametrisierung von Tests mit unterschiedlichen Ein- und Ausgaben vollständig ersetzen sollte, ist sicherlich diskutabel. Hypothesis ist aber zweifellos ein leistungsstarkes Werkzeug, um Probleme aufzudecken, an die niemand gedacht hätte. Tatsächlich entdeckten die Entwickler von Hypothesis während der Entwicklung zufällig unzählige Bugs in CPython und Bibliotheken und prägten so den Begriff „der Fluch von Hypothesis“.
+
+Das Framework mag zwar unglaublich leistungsstark sein, aber zunächst komplex wirken. In diesem Vortrag zeige ich, wie selbst das einfache Übergeben zufälliger Strings an Funktionen überraschende Fehler aufdecken kann. Anschließend werde ich demonstrieren, wie auch komplexere Daten einfach generiert werden können und zeigen, wie sich Hypothesis nahtlos in verschiedene Ökosysteme integriert.
+
+## Kommentar
+
+Ein Vortrag auf Englisch wäre ebenfalls möglich. Falls nur eine Einreichung angenommen wird, würde ich den Workshop stark bevorzugen.
